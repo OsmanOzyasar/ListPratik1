@@ -1,1 +1,2 @@
-# ListPratik1
+# ListPratik
+Listeler için pratik1
